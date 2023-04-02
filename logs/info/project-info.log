@@ -1,0 +1,9 @@
+{"level":"INFO","time":"2023-04-01T00:02:50.039+0800","caller":"user/user.go:41","msg":"短信平台调用成功，发送短信 Info"}
+{"level":"INFO","time":"2023-04-01T00:03:52.035+0800","caller":"user/user.go:41","msg":"短信平台调用成功，发送短信 Info"}
+{"level":"ERROR","time":"2023-04-01T00:03:52.036+0800","caller":"user/user.go:43","msg":"短信平台调用成功，发送短信 Error"}
+{"level":"INFO","time":"2023-04-01T01:52:23.765+0800","caller":"user/user.go:41","msg":"短信平台调用成功，发送短信 Info"}
+{"level":"ERROR","time":"2023-04-01T01:52:23.768+0800","caller":"user/user.go:43","msg":"短信平台调用成功，发送短信 Error"}
+{"level":"INFO","time":"2023-04-01T02:01:44.851+0800","caller":"user/user.go:41","msg":"短信平台调用成功，发送短信 Info"}
+{"level":"ERROR","time":"2023-04-01T02:01:44.854+0800","caller":"user/user.go:43","msg":"短信平台调用成功，发送短信 Error"}
+{"level":"INFO","time":"2023-04-02T14:33:10.923+0800","caller":"user/user.go:41","msg":"短信平台调用成功，发送短信 Info"}
+{"level":"ERROR","time":"2023-04-02T14:33:10.925+0800","caller":"user/user.go:43","msg":"短信平台调用成功，发送短信 Error"}
